@@ -1,4 +1,4 @@
 # landingPage
-simple design of landing page
+simple design of landing page image that I tried to convert into webpage
 URL:
-https://landingpage.hossam779.repl.co/
+https://hossamynwa.github.io/landingPage/
